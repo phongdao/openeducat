@@ -215,12 +215,12 @@ msgstr "<span class=\"fa fa-bars fa-lg\" title=\"session\"/>"
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_teacher_generate
 msgid "<span class=\"ml-2\">Faculty TimeTable</span>"
-msgstr "<span class=\"ml-2\"> Thời gian biểu của khoa </span>"
+msgstr "<span class=\"ml-2\"> Thời khóa biểu của khoa </span>"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.report_timetable_student_generate
 msgid "<span class=\"ml-2\">TimeTable</span>"
-msgstr "<span class=\"ml-2\"> Thời gian biểu </span>"
+msgstr "<span class=\"ml-2\"> Thời khóa biểu </span>"
 
 #. module: openeducat_timetable
 #: model:ir.model.fields.selection,name:openeducat_timetable.selection__op_timing__am_pm__am
@@ -240,7 +240,7 @@ msgstr "Hành động cần thiết"
 #. module: openeducat_timetable
 #: model:ir.model.fields,field_description:openeducat_timetable.field_op_session__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.view_op_session_form
@@ -490,12 +490,12 @@ msgstr "Tạo báo cáo bảng thời gian"
 #. module: openeducat_timetable
 #: model:ir.ui.menu,name:openeducat_timetable.menu_generate_time_table
 msgid "Generate Timetable"
-msgstr "Tạo thời gian biểu"
+msgstr "Tạo thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model:ir.ui.menu,name:openeducat_timetable.menu_generate_time_table_report
 msgid "Generate Timetable Report"
-msgstr "Tạo báo cáo thời gian biểu"
+msgstr "Tạo báo cáo thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.view_op_session_search
@@ -520,7 +520,7 @@ msgstr "Giờ"
 #: model:ir.model.fields,field_description:openeducat_timetable.field_session_confirmation__id
 #: model:ir.model.fields,field_description:openeducat_timetable.field_time_table_report__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_timetable
 #: model_terms:ir.ui.view,arch_db:openeducat_timetable.res_config_settings_view_form_timetable
@@ -832,7 +832,7 @@ msgstr "thứ năm"
 #. module: openeducat_timetable
 #: model:ir.model.fields,field_description:openeducat_timetable.field_gen_time_table_line__gen_time_table
 msgid "Time Table"
-msgstr "Thời gian biểu"
+msgstr "Thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model:ir.model.fields,field_description:openeducat_timetable.field_generate_time_table__time_table_lines
@@ -882,32 +882,32 @@ msgstr "Báo cáo bảng thời gian"
 #. module: openeducat_timetable
 #: model:ir.actions.report,name:openeducat_timetable.report_teacher_timetable_generate
 msgid "TimeTable for Faculties"
-msgstr "Thời gian biểu cho các khoa"
+msgstr "Thời khóa biểu cho các khoa"
 
 #. module: openeducat_timetable
 #: model:ir.actions.report,name:openeducat_timetable.report_student_timetable_generate
 msgid "TimeTable for Students"
-msgstr "Thời gian biểu cho sinh viên"
+msgstr "Thời khóa biểu cho sinh viên"
 
 #. module: openeducat_timetable
 #: model:ir.ui.menu,name:openeducat_timetable.menu_op_timetable_root
 msgid "TimeTables"
-msgstr "Thời gian biểu"
+msgstr "Thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model:ir.ui.menu,name:openeducat_timetable.menu_op_timetable
 msgid "Timetable"
-msgstr "Thời gian biểu"
+msgstr "Thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_report_openeducat_timetable_report_timetable_student_generate
 msgid "Timetable Student Report"
-msgstr "Báo cáo học sinh thời gian biểu"
+msgstr "Báo cáo học sinh thời khóa biểu"
 
 #. module: openeducat_timetable
 #: model:ir.model,name:openeducat_timetable.model_report_openeducat_timetable_report_timetable_teacher_generate
 msgid "Timetable Teacher Report"
-msgstr "Báo cáo thời gian biểu của giáo viên"
+msgstr "Báo cáo thời khóa biểu của giáo viên"
 
 #. module: openeducat_timetable
 #: model:ir.model.fields,field_description:openeducat_timetable.field_gen_time_table_line__timing_id
