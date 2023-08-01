@@ -18,7 +18,7 @@ msgstr ""
 #. module: openeducat_attendance
 #: model:ir.ui.menu,name:openeducat_attendance.menu_op_attendance_root
 msgid " Attendances"
-msgstr "Tham dự"
+msgstr "Điểm danh"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.student_attendance_report
@@ -43,7 +43,7 @@ msgstr "<b> Hoàn toàn vắng mặt </b>"
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.student_attendance_report
 msgid "<strong>Student Attendance Detail</strong>"
-msgstr "<strong> Chi tiết tham dự sinh viên </strong>"
+msgstr "<strong> Chi tiết điểm danh sinh viên </strong>"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_type__absent
@@ -75,7 +75,7 @@ msgstr "Hành động cần thiết"
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_sheet__active
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_type__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_form
@@ -101,12 +101,12 @@ msgstr "Số lượng đính kèm"
 #: model:ir.ui.menu,name:openeducat_attendance.menu_op_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_search
 msgid "Attendance"
-msgstr "Sự tham dự"
+msgstr "Điểm danh"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_pivot
 msgid "Attendance Analysis"
-msgstr "Phân tích tham dự"
+msgstr "Phân tích điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.actions.act_window,name:openeducat_attendance.act_open_op_attendance_line_view
@@ -117,13 +117,13 @@ msgstr "Phân tích tham dự"
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_tree
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
 msgid "Attendance Line"
-msgstr "Dòng tham dự"
+msgstr "Dòng điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_op_attendance_line
 #: model:ir.ui.menu,name:openeducat_attendance.menu_op_attendance_line_sub
 msgid "Attendance Lines"
-msgstr "Dòng tham dự"
+msgstr "Dòng điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_op_attendance_register
@@ -131,17 +131,17 @@ msgstr "Dòng tham dự"
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_register_search
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_register_tree
 msgid "Attendance Register"
-msgstr "Đăng ký tham dự"
+msgstr "Đăng ký điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.actions.act_window,name:openeducat_attendance.act_open_op_attendance_register_view
 msgid "Attendance Registers"
-msgstr "Đăng ký tham dự"
+msgstr "Đăng ký điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_report_openeducat_attendance_student_attendance_report
 msgid "Attendance Report"
-msgstr "Báo cáo tham dự"
+msgstr "Báo cáo điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_op_attendance_sheet
@@ -158,19 +158,19 @@ msgstr "Phiếu điểm danh"
 #. module: openeducat_attendance
 #: model:ir.actions.act_window,name:openeducat_attendance.act_open_op_attendance_sheet_view
 msgid "Attendance Sheets"
-msgstr "Tờ tham dự"
+msgstr "Tờ điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields.selection,name:openeducat_attendance.selection__op_attendance_sheet__state__start
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
 msgid "Attendance Start"
-msgstr "Tham dự bắt đầu"
+msgstr "Bắt đầu điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields.selection,name:openeducat_attendance.selection__op_attendance_sheet__state__done
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
 msgid "Attendance Taken"
-msgstr "Tham dự"
+msgstr "điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_op_attendance_type
@@ -180,12 +180,12 @@ msgstr "Tham dự"
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_type_search
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_type_tree
 msgid "Attendance Type"
-msgstr "Loại tham dự"
+msgstr "Loại điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.actions.act_window,name:openeducat_attendance.act_open_op_attendance_type_view
 msgid "Attendance Types"
-msgstr "Các loại tham dự"
+msgstr "Các loại điểm danh"
 
 #. module: openeducat_attendance
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_line__batch_id
@@ -220,7 +220,7 @@ msgstr "Mã số"
 #. module: openeducat_attendance
 #: model:ir.model.constraint,message:openeducat_attendance.constraint_op_attendance_register_unique_attendance_register_code
 msgid "Code should be unique per attendance register!"
-msgstr "Mã phải là duy nhất cho mỗi đăng ký tham dự!"
+msgstr "Mã phải là duy nhất cho mỗi đăng ký điểm danh!"
 
 #. module: openeducat_attendance
 #: model:ir.ui.menu,name:openeducat_attendance.menu_op_attendance_config
@@ -312,7 +312,7 @@ msgstr "Từ ngày"
 #. module: openeducat_attendance
 #: model:ir.actions.report,name:openeducat_attendance.action_report_student_attendance
 msgid "Generate Attendance"
-msgstr "Tạo ra tham dự"
+msgstr "Tạo ra điểm danh"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_line_search
@@ -549,12 +549,12 @@ msgstr "Sinh viên"
 #: model:ir.actions.act_window,name:openeducat_attendance.op_student_attendance_act
 #: model:ir.model,name:openeducat_attendance.model_student_attendance
 msgid "Student Attendance"
-msgstr "Học sinh tham dự"
+msgstr "Học sinh điểm danh"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.student_attendance_form
 msgid "Student Attendance Report"
-msgstr "Báo cáo tham dự sinh viên"
+msgstr "Báo cáo điểm danh sinh viên"
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_type_form
@@ -564,7 +564,7 @@ msgstr "Học sinh nên được đánh dấu là"
 #. module: openeducat_attendance
 #: model:ir.model.constraint,message:openeducat_attendance.constraint_op_attendance_line_unique_student
 msgid "Student must be unique per Attendance."
-msgstr "Học sinh phải là duy nhất cho mỗi lần tham dự."
+msgstr "Học sinh phải là duy nhất cho mỗi lần điểm danh."
 
 #. module: openeducat_attendance
 #: model_terms:ir.ui.view,arch_db:openeducat_attendance.view_op_attendance_sheet_form
