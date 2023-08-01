@@ -197,22 +197,22 @@ msgstr "Lệ phí chi tiết phân tích"
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.fees_detail_report_wizard_form
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_op_student_form_fees_inherit
 msgid "Fees Details"
-msgstr "Chi tiết phí"
+msgstr "Chi tiết khoản thu"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student__fees_details_count
 msgid "Fees Details Count"
-msgstr "Phí chi tiết số lượng"
+msgstr "Số lượng khoản thu"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_fees_terms_line
 msgid "Fees Details Line"
-msgstr "Phí chi tiết dòng"
+msgstr "Dòng khoản thu"
 
 #. module: openeducat_fees
 #: model:ir.actions.act_window,name:openeducat_fees.fees_detail_report_wizard_act
 msgid "Fees Details Report"
-msgstr "Phí chi tiết báo cáo"
+msgstr "Báo cáo khoản thu"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_fees_element
