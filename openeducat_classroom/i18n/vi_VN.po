@@ -18,7 +18,7 @@ msgstr ""
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
@@ -40,12 +40,12 @@ msgstr "Quản lý tài sản"
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__batch_id
 msgid "Batch"
-msgstr "Lô hàng"
+msgstr "Lô"
 
 #. module: openeducat_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
 msgid "Capacity"
-msgstr "Dung tích"
+msgstr "Sức chứa"
 
 #. module: openeducat_classroom
 #: model:ir.ui.menu,name:openeducat_classroom.menu_op_school_config_class_room
@@ -115,7 +115,7 @@ msgstr "Cơ sở"
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__facilities
 msgid "Facility Lines"
-msgstr "Dòng cơ sở"
+msgstr "Cơ sở vật chất"
 
 #. module: openeducat_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
@@ -126,7 +126,7 @@ msgstr "Nhóm bởi ..."
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset__id
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset____last_update
@@ -149,7 +149,7 @@ msgstr "Cập nhật lần cuối vào"
 #. module: openeducat_classroom
 #: model:ir.model,name:openeducat_classroom.model_op_facility_line
 msgid "Manage Facility Line"
-msgstr "Quản lý dòng cơ sở"
+msgstr "Quản lý cơ sở vật chất"
 
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__name
