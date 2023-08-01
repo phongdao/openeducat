@@ -18,7 +18,7 @@ msgstr ""
 #. module: openeducat_facility
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_facility
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.view_op_facility_form
@@ -68,7 +68,7 @@ msgstr "Nhập số lượng thích hợp trong Cơ sở vật chất!"
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.op_facility_line_form_view
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.op_facility_line_tree_view
 msgid "Facilities"
-msgstr "Cơ sở"
+msgstr "Cơ sở vật chất"
 
 #. module: openeducat_facility
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility_line__facility_id
@@ -76,7 +76,7 @@ msgstr "Cơ sở"
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.view_op_facility_search
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.view_op_facility_tree
 msgid "Facility"
-msgstr "Cơ sở"
+msgstr "Cơ sở vật chất"
 
 #. module: openeducat_facility
 #: model_terms:ir.ui.view,arch_db:openeducat_facility.view_op_facility_search
@@ -87,7 +87,7 @@ msgstr "Nhóm bởi ..."
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility__id
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility_line__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_facility
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility____last_update
@@ -110,12 +110,12 @@ msgstr "Cập nhật lần cuối vào"
 #. module: openeducat_facility
 #: model:ir.model,name:openeducat_facility.model_op_facility
 msgid "Manage Facility"
-msgstr "Quản lý cơ sở"
+msgstr "Quản lý cơ sở vật chất"
 
 #. module: openeducat_facility
 #: model:ir.model,name:openeducat_facility.model_op_facility_line
 msgid "Manage Facility Line"
-msgstr "Quản lý dòng cơ sở"
+msgstr "Quản lý dòng cơ sở vật chất"
 
 #. module: openeducat_facility
 #: model:ir.model.fields,field_description:openeducat_facility.field_op_facility__name
