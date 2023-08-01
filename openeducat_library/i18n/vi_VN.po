@@ -146,7 +146,7 @@ msgstr "Hành động cần thiết"
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_queue__active
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_unit__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media_movement__actual_return_date
@@ -183,7 +183,7 @@ msgstr "Chi tiết nhập học"
 #: model:ir.actions.act_window,name:openeducat_library.act_open_op_media_view
 #: model:ir.ui.menu,name:openeducat_library.menu_library_medias
 msgid "All Media"
-msgstr "Tất cả các kênh truyền thông"
+msgstr "Tất cả các loại"
 
 #. module: openeducat_library
 #: model_terms:ir.ui.view,arch_db:openeducat_library.view_media_unit_form
@@ -498,7 +498,7 @@ msgstr "Có tin nhắn"
 #: model:ir.model.fields,field_description:openeducat_library.field_reserve_media__id
 #: model:ir.model.fields,field_description:openeducat_library.field_return_media__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_library
 #: model:ir.model.fields,field_description:openeducat_library.field_op_media__isbn
