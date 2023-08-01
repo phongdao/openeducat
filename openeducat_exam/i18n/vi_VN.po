@@ -182,7 +182,7 @@ msgstr "Người tham dự"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_held_exam__batch_id
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_room_distribution__batch_id
 msgid "Batch"
-msgstr "Lô hàng"
+msgstr "Lô"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.student_hall_ticket_form
@@ -202,7 +202,7 @@ msgstr "Bị hủy bỏ"
 #. module: openeducat_exam
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_exam_room__capacity
 msgid "Capacity"
-msgstr "Dung tích"
+msgstr "Sức chứa"
 
 #. module: openeducat_exam
 #. odoo-python
@@ -661,7 +661,7 @@ msgstr "Held Wizard"
 #: model:ir.model.fields,field_description:openeducat_exam.field_op_room_distribution__id
 #: model:ir.model.fields,field_description:openeducat_exam.field_student_hall_ticket__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_exam
 #: model:ir.model.fields,help:openeducat_exam.field_op_exam__message_needaction
