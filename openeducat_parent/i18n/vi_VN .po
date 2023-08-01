@@ -18,12 +18,12 @@ msgstr ""
 #. module: openeducat_parent
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.parent_student_form_view
 msgid "<span>Parents</span>"
-msgstr "<span>Cha mẹ</span>"
+msgstr "<span>phụ huynh</span>"
 
 #. module: openeducat_parent
 #: model:ir.model.fields,field_description:openeducat_parent.field_op_parent__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_parent
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.view_op_parent_form
@@ -34,12 +34,12 @@ msgstr "Lưu trữ"
 #. module: openeducat_parent
 #: model:ir.model.constraint,message:openeducat_parent.constraint_op_parent_unique_parent
 msgid "Can not create parent multiple times.!"
-msgstr "Không thể tạo cha mẹ nhiều lần.!"
+msgstr "Không thể tạo phụ huynh nhiều lần.!"
 
 #. module: openeducat_parent
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.view_op_parent_form
 msgid "Create Parent User"
-msgstr "Tạo người dùng cha mẹ"
+msgstr "Tạo người dùng phụ huynh"
 
 #. module: openeducat_parent
 #: model:ir.model.fields,field_description:openeducat_parent.field_op_parent__create_uid
@@ -122,19 +122,19 @@ msgstr "Tên"
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.view_op_parent_search
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.view_op_parent_tree
 msgid "Parent"
-msgstr "Cha mẹ"
+msgstr "Phụ huynh"
 
 #. module: openeducat_parent
 #: model_terms:ir.ui.view,arch_db:openeducat_parent.view_op_parent_form
 msgid "Parent Name"
-msgstr "Tên cha mẹ"
+msgstr "Tên phụ huynh"
 
 #. module: openeducat_parent
 #: model:ir.actions.act_window,name:openeducat_parent.act_open_op_parent_view
 #: model:ir.ui.menu,name:openeducat_parent.menu_op_parent_root
 #: model:ir.ui.menu,name:openeducat_parent.menu_op_parent_sub_parent
 msgid "Parents"
-msgstr "Cha mẹ"
+msgstr "Phụ huynh"
 
 #. module: openeducat_parent
 #: model:ir.model.fields,field_description:openeducat_parent.field_op_parent__relationship_id
