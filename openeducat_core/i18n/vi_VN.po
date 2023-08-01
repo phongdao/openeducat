@@ -2890,32 +2890,32 @@ msgstr "Doanh nghiệp bổ nhiệm trực tuyến"
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat
 #: model:ir.ui.menu,name:openeducat_core.menu_op_school_root
 msgid "OpenEduCat"
-msgstr "Mở"
+msgstr "Quản lý trường học"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
 msgid "OpenEduCat Apps"
-msgstr "Ứng dụng mở"
+msgstr "Ứng dụng"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_batch
 msgid "OpenEduCat Batch"
-msgstr "Mở lô"
+msgstr "Lớp học"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_category
 msgid "OpenEduCat Category"
-msgstr "Mở danh mục"
+msgstr "Danh mục"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_department
 msgid "OpenEduCat Department"
-msgstr "Mở bộ phận"
+msgstr "Bộ phận"
 
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
 msgid "OpenEduCat Faculty"
-msgstr "Mở giảng viên"
+msgstr "Ngành"
 
 #. module: openeducat_core
 #. odoo-javascript
@@ -2926,13 +2926,13 @@ msgstr "Công nghệ Receptives"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
-msgid "OpenEduCat LMS"
-msgstr "Mở LMS"
+msgid "LMS"
+msgstr "LMS"
 
 #. module: openeducat_core
 #: model:ir.module.category,name:openeducat_core.module_category_openeducat_others
 msgid "OpenEduCat Others"
-msgstr "Mở ra người khác"
+msgstr "Khác"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
@@ -2966,7 +2966,7 @@ msgstr ""
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
 msgid "OpenEducat"
-msgstr "Mở"
+msgstr "Quản lý trường học"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__opportunity_ids
