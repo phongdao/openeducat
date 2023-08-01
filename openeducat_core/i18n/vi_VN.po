@@ -3611,7 +3611,7 @@ msgstr "Ngày bắt đầu"
 #: model_terms:ir.ui.view,arch_db:openeducat_core.view_op_faculty_form
 #: model_terms:ir.ui.view,arch_db:openeducat_core.view_op_student_form
 msgid "State"
-msgstr "Tiểu bang"
+msgstr "Trạng thái"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_student_course__state
@@ -4331,4 +4331,4 @@ msgstr "hoặc"
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_subject_registration__state
 msgid "state"
-msgstr "tiểu bang"
+msgstr "Trạng thái"
