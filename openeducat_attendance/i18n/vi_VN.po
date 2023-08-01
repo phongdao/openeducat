@@ -517,12 +517,12 @@ msgstr "Lỗi phân phối SMS"
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_attendance_sheet__session_id
 #: model:ir.model.fields,field_description:openeducat_attendance.field_op_session__attendance_sheet
 msgid "Session"
-msgstr "Phiên họp"
+msgstr "Buổi học"
 
 #. module: openeducat_attendance
 #: model:ir.model,name:openeducat_attendance.model_op_session
 msgid "Sessions"
-msgstr "Phiên"
+msgstr "Buổi học"
 
 #. module: openeducat_attendance
 #: model:ir.model.constraint,message:openeducat_attendance.constraint_op_attendance_sheet_unique_register_sheet
