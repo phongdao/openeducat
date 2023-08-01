@@ -591,7 +591,7 @@ msgstr "Ngày tạo ra"
 #: model:ir.model.fields.selection,name:openeducat_exam.selection__op_exam_session__evaluation_type__grade
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_marksheet_report
 msgid "Grade"
-msgstr "Lớp"
+msgstr "Điểm"
 
 #. module: openeducat_exam
 #: model:ir.actions.act_window,name:openeducat_exam.act_open_op_grade_configuration_view
@@ -895,7 +895,7 @@ msgid ""
 "                                                    Grade"
 msgstr ""
 "Thu được\n"
-"                                                    Lớp"
+"                                                    Điểm"
 
 #. module: openeducat_exam
 #: model_terms:ir.ui.view,arch_db:openeducat_exam.report_marksheet_report
