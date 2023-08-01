@@ -2915,7 +2915,7 @@ msgstr "Bộ phận"
 #. module: openeducat_core
 #: model:ir.model,name:openeducat_core.model_op_faculty
 msgid "OpenEduCat Faculty"
-msgstr "Ngành"
+msgstr "Giảng viên"
 
 #. module: openeducat_core
 #. odoo-javascript
