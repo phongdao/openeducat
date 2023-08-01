@@ -28,7 +28,7 @@ msgstr "Hành động cần thiết"
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__active
 msgid "Active"
-msgstr "Tích cực"
+msgstr "Hiệu lực"
 
 #. module: openeducat_fees
 #: model:product.template,name:openeducat_fees.op_product_3_product_template
@@ -79,7 +79,7 @@ msgstr "Số lượng đính kèm"
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_fees_details__batch_id
 msgid "Batch"
-msgstr "Lô hàng"
+msgstr "Lô"
 
 #. module: openeducat_fees
 #: model:ir.model.fields.selection,name:openeducat_fees.selection__op_fees_terms__day_type__before
@@ -334,7 +334,7 @@ msgstr "Có tin nhắn"
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms_line__id
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_fees_details__id
 msgid "ID"
-msgstr "TÔI"
+msgstr "ID"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,help:openeducat_fees.field_op_fees_terms__message_needaction
@@ -412,7 +412,7 @@ msgstr "Cập nhật lần cuối vào"
 #. module: openeducat_fees
 #: model:product.template,name:openeducat_fees.op_product_7_product_template
 msgid "Library Fees"
-msgstr "Phí phạt Thư viện"
+msgstr "Phí Thư viện"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__message_main_attachment_id
