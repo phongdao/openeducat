@@ -11,7 +11,7 @@ $(document).ready(function(){
     const nbDays = 7;
     const reviewShow = !!getCookie(`g2_review_${session.db}`);
 
-    if(!reviewShow){
+    if(false){
         setTimeout(() => {
 
             var review_dialog = new Dialog(null, {
